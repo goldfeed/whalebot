@@ -10,6 +10,8 @@ Watch WhaleBot trade live @ https://cryptotrader.org/traders/yT6eZdA48puWca3An
 Donate @ 1KVZzMZfhkYXHB2cR5ynSnVGVMWw9CFNVb
 
 
+Bounty
+========
 Have you tuned WhaleBot to be optimal?
 I will pay 0.20 BTC for the most optimized WhaleBot possible using as much of the original coffeescript as possible. I would like it to be non-cumbersome to CryptoTrader.
 
