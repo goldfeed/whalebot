@@ -1,18 +1,19 @@
-# This is WhaleBot 1.00
-# Designed to hold GHS and buy more GHS with the mined BTC.
-# The WhaleBot will also sell your GHS when the price goes
-# down at a grade slope of 0. If the price of GHS
-# Suddenly dips it will sell your GHS right after the initial
-# dip. When GHS starts to rise WhaleBot will quickly buy for
-# the sell when it reaches the the top of the down slope.
-
-# Get er done!
+# This is WhaleBot.
+#
+# FOR USE ONLY ON CEX•IO
+#
+# WhaleBot is designed to Buy, Hold and make GHS in a down market.
+# WhaleBot will make GHS and BTC in an up market.
+#
+# Happy trading!!
+# 
+# Donations accepted @ 1KVZzMZfhkYXHB2cR5ynSnVGVMWw9CFNVb
 
 init: (context) ->
     context.pair = 'ghs_btc'
     context.diffptc = 0.01
     context.maxlast = 15;
-    context.emaperiod = 90;
+    context.emaperiod = 65;
     context.buycounter = 0
     context.sellcounter = 0
     context.sellslope = 0
