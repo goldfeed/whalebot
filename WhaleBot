@@ -7,7 +7,7 @@
 #
 # Happy trading!!
 # 
-# Donations accepted @ 1KVZzMZfhkYXHB2cR5ynSnVGVMWw9CFNVb
+# Donations accepted @ 1H6ZjFRdxySPThrCT7NVkZAiLrjSGVM26U
 
 init: (context) ->
     context.pair = 'ghs_btc'
