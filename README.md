@@ -9,6 +9,17 @@ Watch WhaleBot trade live @ https://cryptotrader.org/traders/yT6eZdA48puWca3An
 
 Donate @ 1KVZzMZfhkYXHB2cR5ynSnVGVMWw9CFNVb
 
+
+Have you tuned WhaleBot to be optimal?
+I will pay 0.20 BTC for the most optimized WhaleBot possible using as much of the original coffeescript as possible. I would like it to be non-cumbersome to CryptoTrader.
+
+• Must work with 0 GHS balance as well as with 0 BTC balance. ie; 80 GHS & 0 BTC or 0 GHS and 8 BTC.
+
+Results are to be proven in a 48 hour live uninterrupted or tampered with test.
+
+Submissions are to be sent to: gradestake@gmail.com
+
+
 FUNCTIONS FOR TUNING:
 
     context.lag		        = 1
