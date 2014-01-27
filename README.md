@@ -3,9 +3,11 @@ WhaleBot
 
 WhaleBot is a bot for use on CEX.io for automated trading.
 
-Designed to hold GHS and buy more GHS with the mined BTC. The WhaleBot will also sell your GHS when the price goes down at a grade slope of 0. If the price of GHS Suddenly dips it will sell your GHS right after the initial dip. When GHS starts to rise WhaleBot will quickly buy for the sell when it reaches the the top of the down slope.
+-WhaleBot is designed to buy, hold and profit GHS when the CEX•IO market is on its way down. When the CEX•IO market is trending up WhaleBot will buy, hold and profit both GHS and BTC.
 
-Watch WhaleBot (1.00) trade live @ https://cryptotrader.org/topics/448532/whalebot-cex-io
+Watch WhaleBot trade live @ https://cryptotrader.org/traders/yT6eZdA48puWca3An
+
+Donate @ 1KVZzMZfhkYXHB2cR5ynSnVGVMWw9CFNVb
 
 FUNCTIONS FOR TUNING:
 
